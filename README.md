@@ -4,7 +4,7 @@ This was a project I was really keen to do, and it was supposed to provide a coo
 <img src="images/20260517_151905.jpg" alt="Failed cutter" height="200">
 <img src="images/20260517_152312.jpg" alt="Example of what my program can do" height="200">
 <img src="images/20260517_152604.jpg" alt="Here I cut out the trace with my finger nail, worked better" height="200">
-<img src="images/Screenshot 2026-06-20 094206.png" alt="Example of the .json viewer" height="200">
+<img src="images/Screenshot2026-06-20094206.png" alt="Example of the .json viewer" height="200">
 ---
 It works like this:
 
